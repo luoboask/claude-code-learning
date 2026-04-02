@@ -77,20 +77,38 @@ cd claude-code-learning
 
 ### 2. 开始学习
 ```bash
-# 从学习指南开始
+# 📖 从学习指南开始（推荐新手）
 cat docs/LEARNING_GUIDE.md
 
-# 或查看架构全景
+# 🏗️ 查看架构全景
 cat docs/ARCHITECTURE.md
+
+# 📚 完整分析（深入理解）
+cat docs/COMPLETE_ANALYSIS.md
+
+# 🔍 超详细实现（逐行代码分析）
+cat docs/ULTRA_DETAILED_ANALYSIS.md
 ```
 
 ### 3. 实践项目
 ```bash
-# 实现第一个工具
+# 🛠️ 实现第一个工具
 cat code-examples/tool-template.ts
 
-# 实现安全检查
+# 🔐 实现安全检查（待添加）
 cat security-checks/validation-examples.ts
+```
+
+### 4. 查看源码
+```bash
+# 📜 浏览 Claude Code CLI 源码
+cd source/src
+ls
+
+# 查看核心文件
+cat main.tsx | head -100
+cat query.ts | head -100
+cat Tool.ts | head -100
 ```
 
 ---
