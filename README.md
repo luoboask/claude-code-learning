@@ -4,6 +4,11 @@
 > 🔍 深度分析现代 Agent CLI 的完整架构设计  
 > ⚠️ 本仓库仅用于学习和研究目的
 
+[![GitHub stars](https://img.shields.io/github/stars/luoboask/claude-code-learning)](https://github.com/luoboask/claude-code-learning/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/luoboask/claude-code-learning)](https://github.com/luoboask/claude-code-learning/network)
+[![License](https://img.shields.io/github/license/luoboask/claude-code-learning)](https://github.com/luoboask/claude-code-learning/blob/main/LICENSE)
+[![Last Commit](https://img.shields.io/github/last-commit/luoboask/claude-code-learning)](https://github.com/luoboask/claude-code-learning/commits/main)
+
 ---
 
 ## 📖 关于本仓库
